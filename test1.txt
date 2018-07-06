@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A2BC-6DC3
+
+ Directory of C:\Users\pratmish\Repos
+
+07/06/2018  05:30 PM    <DIR>          .
+07/06/2018  05:30 PM    <DIR>          ..
+07/06/2018  05:30 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  39,728,717,824 bytes free
